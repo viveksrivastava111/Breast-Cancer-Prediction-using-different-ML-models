@@ -222,7 +222,6 @@ def main():
                 step=0.01
             )
 
-        
         # Predict button
         if st.button("Predict"):
             # Convert input to numpy array and scale
